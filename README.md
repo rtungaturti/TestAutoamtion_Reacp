@@ -1,1 +1,1 @@
-Creating a Class and an Object
+Creating a Class and an Object with example
