@@ -1,2 +1,1 @@
-# TestAutoamtion_Reacp
-Recap of what i learned till date
+Creating a Class and an Object with example
